@@ -1,0 +1,5 @@
+{
+    "path_of_input_folder" : "input_image/",
+    "path_of_ASCII_art_text" : "output_text/",
+    "path_of_ASCII_art_image" : "output_image/"
+}
